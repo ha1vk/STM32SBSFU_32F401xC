@@ -1,0 +1,5 @@
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_UserApp/Src/fw_update_app.c:601:19:Ymodem_HeaderPktRxCpltCallback	8	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_UserApp/Src/fw_update_app.c:634:19:Ymodem_DataPktRxCpltCallback	344	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_UserApp/Src/fw_update_app.c:97:6:FW_UPDATE_Run	360	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_UserApp/Src/fw_update_app.c:169:6:FW_UPDATE_MULTIPLE_RunMenu	8	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_UserApp/Src/fw_update_app.c:485:6:FW_VALIDATE_RunMenu	0	static

@@ -1,0 +1,7 @@
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/App/sfu_fwimg_no_swap.c:467:24:DecryptImageFromDwlSlotToActiveSlot.constprop	1136	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/App/sfu_fwimg_no_swap.c:351:24:VerifyFwSignatureBeforeDecrypt.constprop	1632	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/App/sfu_fwimg_no_swap.c:155:25:FirmwareToResume.constprop	1312	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/App/sfu_fwimg_no_swap.c:738:32:SFU_IMG_CheckPendingInstallation	16	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/App/sfu_fwimg_no_swap.c:809:17:SFU_IMG_TriggerResumeInstallation	16	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/App/sfu_fwimg_no_swap.c:910:17:SFU_IMG_EraseDownloadedImg	16	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/App/sfu_fwimg_no_swap.c:858:17:SFU_IMG_TriggerImageInstallation	88	static

@@ -1,0 +1,4 @@
+prebuild.sh : started
+prepareimage with python script
+python /Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Middlewares/ST/STM32_Secure_Engine/Utilities/KeysAndImages/prepareimage.py
+SECBOOT_ECCDSA_WITH_AES128_CBC_SHA256 selected

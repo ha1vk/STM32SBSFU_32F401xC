@@ -1,0 +1,9 @@
+sfu_low_level_flash_int.c:332:24:SFU_LL_FLASH_INT_Clear_Error	3
+sfu_low_level_flash_int.c:48:17:SFU_LL_FLASH_INT_Init	1
+sfu_low_level_flash_int.c:136:17:SFU_LL_FLASH_INT_Write	13
+sfu_low_level_flash_int.c:244:17:SFU_LL_FLASH_INT_Read	3
+sfu_low_level_flash_int.c:292:17:SFU_LL_FLASH_INT_Compare	4
+sfu_low_level_flash_int.c:313:10:SFU_LL_FLASH_INT_GetSector	2
+sfu_low_level_flash_int.c:60:17:SFU_LL_FLASH_INT_Erase_Size	7
+sfu_low_level_flash_int.c:376:6:NMI_Handler	1
+sfu_low_level_flash_int.c:390:6:HardFault_Handler	1

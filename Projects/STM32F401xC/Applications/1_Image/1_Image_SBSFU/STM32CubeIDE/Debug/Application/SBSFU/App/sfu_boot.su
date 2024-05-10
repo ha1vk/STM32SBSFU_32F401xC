@@ -1,0 +1,14 @@
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:1089:13:SFU_BOOT_SM_HandleCriticalFailure	8	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:829:13:SFU_BOOT_SM_VerifyUserFwSignature	24	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:551:13:SFU_BOOT_SM_CheckUserFwStatus	8	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:741:13:SFU_BOOT_SM_DownloadNewUserFw	32	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:496:13:SFU_BOOT_SM_CheckNewFwToDownload	16	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:458:13:SFU_BOOT_SM_CheckStatusOnReset	16	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:346:24:SFU_BOOT_DeInit.isra	16	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:230:6:SFU_BOOT_ForceReboot	8	static,ignoring_inline_asm
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:1105:13:SFU_BOOT_SM_RebootStateMachine	8	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:960:13:SFU_BOOT_SM_ExecuteUserFw	32	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:375:6:DOWNLOAD_KEY_INIT	32	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:178:27:SFU_BOOT_RunSecureBootService	32	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:1348:6:HAL_RTCEx_Tamper1EventCallback	0	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_boot.c:1360:6:MemManage_Handler	0	static

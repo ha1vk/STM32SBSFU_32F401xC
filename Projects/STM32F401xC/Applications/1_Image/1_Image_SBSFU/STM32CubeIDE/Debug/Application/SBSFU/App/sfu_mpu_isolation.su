@@ -1,0 +1,5 @@
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_mpu_isolation.c:84:6:SFU_MPU_SVC_Handler	8	static,ignoring_inline_asm
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_mpu_isolation.c:45:6:MPU_SVC_Handler	0	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_mpu_isolation.c:151:6:SFU_MPU_SysCall	0	static,ignoring_inline_asm
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_mpu_isolation.c:166:10:SFU_MPU_IsUnprivileged	0	static,ignoring_inline_asm
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/1_Image/1_Image_SBSFU/SBSFU/App/sfu_mpu_isolation.c:176:6:SFU_MPU_EnterUnprivilegedMode	0	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/Target/sfu_low_level_security.c:238:17:SFU_LL_SECU_CheckApplyStaticProtections	40	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/Target/sfu_low_level_security.c:335:17:SFU_LL_SECU_CheckApplyRuntimeProtections	0	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/Target/sfu_low_level_security.c:495:6:SFU_LL_SECU_GetResetSources	0	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/Target/sfu_low_level_security.c:539:6:SFU_LL_SECU_ClearResetSources	0	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Projects/STM32F413H-Discovery/Applications/2_Images/2_Images_SBSFU/SBSFU/Target/sfu_low_level_security.c:551:17:SFU_LL_SECU_IWDG_Refresh	0	static

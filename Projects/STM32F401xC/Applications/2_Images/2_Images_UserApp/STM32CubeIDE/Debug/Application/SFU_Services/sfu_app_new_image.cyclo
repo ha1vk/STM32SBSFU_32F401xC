@@ -1,0 +1,2 @@
+sfu_app_new_image.c:63:19:SFU_APP_InstallAtNextReset	3
+sfu_app_new_image.c:89:6:SFU_APP_GetDownloadAreaInfo	1

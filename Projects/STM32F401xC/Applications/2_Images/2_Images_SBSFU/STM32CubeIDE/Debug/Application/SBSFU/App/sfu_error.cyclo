@@ -1,0 +1,5 @@
+sfu_error.c:80:6:SFU_EXCPT_SetError	2
+sfu_error.c:100:6:SFU_EXCPT_IrqExceptionHandler	3
+sfu_error.c:134:6:SFU_EXCPT_Security_Error	2
+sfu_error.c:154:17:SFU_EXCPT_Init	1
+sfu_error.c:171:17:SFU_EXCPT_DeInit	1

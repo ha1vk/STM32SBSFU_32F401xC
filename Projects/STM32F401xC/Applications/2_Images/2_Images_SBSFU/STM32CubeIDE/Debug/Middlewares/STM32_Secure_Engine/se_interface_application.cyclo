@@ -1,0 +1,2 @@
+se_interface_application.c:79:23:SE_APP_GetActiveFwInfo	2
+se_interface_application.c:271:13:SE_APP_SVC_Handler	1

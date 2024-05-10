@@ -1,0 +1,5 @@
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Middlewares/ST/STM32_Secure_Engine/Core/se_interface_common.c:82:6:SE_EnterSecureMode	0	static,ignoring_inline_asm
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Middlewares/ST/STM32_Secure_Engine/Core/se_interface_common.c:96:6:SE_ExitSecureMode	0	static,ignoring_inline_asm
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Middlewares/ST/STM32_Secure_Engine/Core/se_interface_common.c:123:10:SE_IsUnprivileged	0	static,ignoring_inline_asm
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Middlewares/ST/STM32_Secure_Engine/Core/se_interface_common.c:136:6:SE_SysCall	0	static,ignoring_inline_asm
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Middlewares/ST/STM32_Secure_Engine/Core/se_interface_common.c:155:6:SE_SVC_Handler	40	static,ignoring_inline_asm

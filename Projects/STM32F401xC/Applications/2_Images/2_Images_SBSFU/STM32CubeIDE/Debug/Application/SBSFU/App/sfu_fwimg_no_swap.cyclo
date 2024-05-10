@@ -1,0 +1,7 @@
+sfu_fwimg_no_swap.c:467:24:DecryptImageFromDwlSlotToActiveSlot.constprop	15
+sfu_fwimg_no_swap.c:351:24:VerifyFwSignatureBeforeDecrypt.constprop	10
+sfu_fwimg_no_swap.c:155:25:FirmwareToResume.constprop	28
+sfu_fwimg_no_swap.c:738:32:SFU_IMG_CheckPendingInstallation	7
+sfu_fwimg_no_swap.c:809:17:SFU_IMG_TriggerResumeInstallation	4
+sfu_fwimg_no_swap.c:910:17:SFU_IMG_EraseDownloadedImg	2
+sfu_fwimg_no_swap.c:858:17:SFU_IMG_TriggerImageInstallation	10

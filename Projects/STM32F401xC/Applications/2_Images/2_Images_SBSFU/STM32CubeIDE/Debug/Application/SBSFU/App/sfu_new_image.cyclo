@@ -1,0 +1,2 @@
+sfu_new_image.c:61:17:SFU_IMG_InstallAtNextReset	1
+sfu_new_image.c:86:6:SFU_IMG_GetDownloadAreaInfo	1

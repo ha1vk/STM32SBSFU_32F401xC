@@ -1,0 +1,2 @@
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Middlewares/ST/STM32_Secure_Engine/Core/se_interface_application.c:79:23:SE_APP_GetActiveFwInfo	40	static
+/Users/mac/Downloads/STM32CubeExpansion_SBSFU_V2.6.2/Middlewares/ST/STM32_Secure_Engine/Core/se_interface_application.c:271:13:SE_APP_SVC_Handler	0	static
